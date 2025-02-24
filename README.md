@@ -53,5 +53,9 @@ streamlit run app.py
 ## Output 
 This is the user interface of this Application
 ![image](https://github.com/user-attachments/assets/dff6985b-74e5-4811-99c2-48a6c52112e1)
+
+
+
+
 This the Output of the model when a question is asked after uploading the pdf file 
 ![image](https://github.com/user-attachments/assets/3b024505-075a-46fd-b4c9-528583e0068a)
